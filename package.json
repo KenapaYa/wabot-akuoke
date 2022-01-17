@@ -1,7 +1,7 @@
 {
-  "name": "termux-wabot",
+  "name": "Bunzxs",
   "version": "0.0.2",
-  "description": "No comment",
+  "description": "Crush",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "MhankBarBar",
+  "author": "BunzxsC",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
