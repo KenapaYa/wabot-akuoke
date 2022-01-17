@@ -4,15 +4,15 @@ SAYA INGIN MEMBERIKAN SCRIPT BOT WA
 SEMOGA BERMANFAAT
 
 THANKS TO
-• MHANKBARBAR (LORD MASTAH)
-• ARIFI RAZZAQ (MASTAH)
-• SENKU (MASTAH)
-• ARDY (MASTAH)
-• FINX (MASTAH)
-• DINATA (MASTAH)+(MY GURU)
-• APRILIA (NEWBIE)
-• PENYEDIA MODULE
-• PENYEDIA REST API'S
+• My God
+• My Parents
+• My Staff
+• MartinQween
+• RodicrickKaleb
+• Patar
+• Jessi
+• Astrid
+• Hana
 
 NOTE : KALO MAU COLONG CASE JANGAN SETENGAH-SETENGAH KASIHIN //CASE BY APRILIA GITU
 */
@@ -62,10 +62,10 @@ const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const setting = JSON.parse(fs.readFileSync('./src/settings.json'))
 const ban = JSON.parse(fs.readFileSync('./database/banned.json'))
 let _scommand = JSON.parse(fs.readFileSync("./database/scommand.json"));
-owner = setting.ownerNumber
-namabot = setting.namabot
-namaowner = setting.ownerName
-fake = setting.fake
+owner = setting.6285271185141
+namabot = setting.Bunzxs Bot
+namaowner = setting.Bunzxs
+fake = setting.Bunzxs Corporation
 let hit_today = []; //JAN UBAH
 const thumb = fs.readFileSync("./media/fake.jpg");
 const thumb2 = fs.readFileSync("./media/logo.jpg");
@@ -660,18 +660,18 @@ let settingstatus = 0;
 				Semoga harimu menyenangkan
 				
 INFO CREATOR BOT
-*Nama : Aprilia*
-*Instagram : @aprigans_*
+*Nama : Bunzxs Bot*
+*Instagram : https://www.instagram.com/p/CYY5Y8xPRDE/?utm_medium=copy_link*
 *YouTube : BOT INDO*
-*Link Yt : https://www.youtube.com/c/BOTINDO*
-*WhatsApp : wa.me/628811929177*
+*Mau Sewa Bot? : Chat Admin*
+*WhatsApp : wa.me/6285271185141*
 
 -----------------------------------•
 
 INFO BOT
 *Nama Bot : ${namabot}*
-*Author : Aprilia*
-*Base : Mhankbarbar*
+*Author : Bunzxs Bot*
+*Base : Bunzxs*
 *Library : Bailey*
 *Nama Owner : ${namaowner}*
 *Owner Number : wa.me/${owner}*
